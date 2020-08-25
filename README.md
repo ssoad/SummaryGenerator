@@ -7,10 +7,11 @@
 
 Automated Summary Generator form huge text
 
-## Usage : git clone https://github.com/sohanuzzamansoad/SummaryGenerator.git
+## Usage : 
 
+                    git clone https://github.com/sohanuzzamansoad/SummaryGenerator.git
                     cd SummaryGenerator
                     python generate.py
 
 
-            Now go to **127.0.0.1:5000** from your browser 
+Now go to **127.0.0.1:5000**  from your browser 
