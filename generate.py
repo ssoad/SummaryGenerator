@@ -20,8 +20,5 @@ def getText():
     return (f"<h1>Result</h1> <p>{text}</p>")
 
 
-def test():
-    pass
-
 if __name__ == "__main__":
     app.run(debug=True)
